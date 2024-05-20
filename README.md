@@ -76,19 +76,19 @@ Truy cập vào địa chỉ: [https://documenter.getpostman.com/view/33602546/2
 
 Trang dashboard:
 
-![Dashboard](./dashboard.png)
+![Dashboard](./Dashboard.png)
 
 Trang dữ liệu cảm biến:
 
-![Datasensor](./datasensors.png)
+![Datasensor](./Datasensors.png)
 
 Trang lịch sử bật tắt đèn:
 
-![actionHistory](./history.png)
+![actionHistory](./History.png)
 
 Trang profile:
 
-![Profile](./profile.png)
+![Profile](./Profile.png)
 
 ## 3. Tài liệu và tham khảo
 
