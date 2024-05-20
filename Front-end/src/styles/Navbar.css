@@ -1,0 +1,25 @@
+.navbar {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: #4a3afa;
+  height: 5.5vh;
+  width: 100%;
+  padding-left: 140px;
+}
+
+.linkPage {
+  font-size: 1.2rem;
+  color: #fff;
+  margin: 0 1rem;
+  text-decoration: none;
+}
+
+.linkPage:hover {
+  color: #999;
+}
+
+.active {
+  color: #222;
+  font-weight: bold;
+}

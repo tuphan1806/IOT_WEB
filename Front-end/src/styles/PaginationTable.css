@@ -1,0 +1,61 @@
+.myTable {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1rem;
+  min-width: 100%;
+}
+
+.myTable th,
+.myTable td {
+  padding: 12px;
+  text-align: left;
+  border: 1px solid #ffffff;
+}
+
+.myTable th {
+  background-color: #222;
+  text-align: center;
+  font-size: 1rem;
+  color: rgb(255, 255, 255);
+}
+
+.myTable th:hover {
+  cursor: pointer;
+}
+
+.myTable tr:nth-child(odd) {
+  background-color: #ffffff;
+}
+
+.myTable tr:hover {
+  background-color: #c6c6c6;
+}
+
+.myTable td {
+  text-align: center;
+  border: 0.5px solid #c6c6c6;
+}
+
+.paginationButtons {
+  top: 55px;
+  right: 155px;
+  position: absolute;
+}
+
+.paginationButtons button {
+  background-color: #222;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.paginationButtons button:hover {
+  background-color: #c6c6c6;
+}
+
+.paginationButtons span {
+  font-size: 1rem;
+  margin: 0 2rem;
+}
