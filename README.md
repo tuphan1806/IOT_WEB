@@ -30,7 +30,7 @@ Các chức năng chính:
 Lấy source code từ trên github về máy.
 
 ```
-git clone https://github.com/tuphan1806/IOT_WEB.gitt
+git clone https://github.com/tuphan1806/IOT_WEB.git
 ```
 
 ### Bước 2: Cài các dependencies
@@ -54,14 +54,15 @@ npm i
 Front-end
 
 ```
-Run index.html with extension liveserver
+cd IOT_WEb/frontend
+npm run dev
 ```
 
 Back-end
 
 ```
 cd IOT_WEB/backend
-nodemon index.js
+npm run dev
 ```
 
 ### Dự án sau khi chạy
@@ -70,7 +71,6 @@ nodemon index.js
 
 Truy cập vào địa chỉ: [https://documenter.getpostman.com/view/33602546/2sA3QmDuXS) để xem API document của Server
 
-![Document_API](API.png)
 
 #### Client
 
